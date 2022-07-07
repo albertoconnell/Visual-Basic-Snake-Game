@@ -1,0 +1,17 @@
+The game starts as soon as the executable is run. 
+The goal is to consume 50 dots without running into yourself.
+Speed increases for each dot consumed up to 180% of the original speed.
+CONTROLS
+  W - go up
+  A - go left
+  S - go down
+  D - go right
+  ESC - pause
+  H - Hide score and speed
+  P - Show position of each snake part
+  ] - Turn on autopilot (NOTE: Does not know how to prevent itself from circling in on itself)
+  L - Add length to the snake
+  J - Decrease speed (no limit)
+  K - Increase speed (Up to 198%)
+Restart not implemented, if you win or lose you must restart the application.
+  
